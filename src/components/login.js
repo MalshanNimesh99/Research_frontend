@@ -107,7 +107,7 @@ const onFormSubmit=(event) =>{
               </div>
               <br></br>
               <p className="forgot-password text-right">
-          Don't have an account?<a href="/sign-up">Sign In?</a></p>
+          Don't have an account?<a href="/sign-up">Sign Up?</a></p>
             </form>
             </div>
             </div>
